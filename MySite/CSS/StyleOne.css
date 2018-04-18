@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #451604;
+}
+
+article{
+	padding-top: 25px;
+}
+
+.centered{
+	text-align: center;
+}
+
+#Banner{
+	margin: 1.5rem auto;
+}
+
+#BannerImg{
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+#BannerImg img{
+	border-radius: 20px;
+	max-width: 100%;
+	height: auto;
+}
+
+#Banner nav{
+	border-radius: 20px;
+}
+
+#Portrait{
+	margin: 1.5rem auto;
+}
+
+#Wrapper{
+	background-color: peru;
+	border-radius: 20px;
+    box-shadow: 5px 5px 5px #333333;
+    margin-bottom: 1.5rem;
+	margin-left: 1.5rem;
+	margin-right: 1.5rem;
+    overflow: hidden;
+}
+
+.mainArticle{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#TextBody{
+	background-color:#D89D75;
+	border-radius: 20px;
+    box-shadow: 5px 5px 5px #333333;
+    margin-bottom: 1.5rem;
+    overflow: hidden;
+}
+
+#project{
+	margin: 50px;
+	text-align: center;
+}
+
+.heading{
+	text-align: center;
+	margin: 20px 0px;
+}
